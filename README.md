@@ -197,6 +197,11 @@
 - [JNI内存管理之Local Reference和Global Reference知识点](https://mp.weixin.qq.com/s/5Q2Exx9W5BckpI3AhzShHQ)
 
 
+### 算法
+
+- [袁厨的算法小屋](https://github.com/chefyuan/algorithm-base)  
+
+
 ## 科普
 
 - [计算机为什么从0开始计数](https://mp.weixin.qq.com/s/6zAmABxH8jHy8l5r0_9Kag)
