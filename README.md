@@ -27,6 +27,8 @@
 
 #### 基础
 
+- [如何入门C++](https://mp.weixin.qq.com/s/koqsBzRSjh_M5GrI-WZhgw)
+
 - [C++面试宝典](https://mp.weixin.qq.com/s/qhFERQ1odNkgZS0PkHm1EA)
 
 - [数组长度可以为变量吗？](https://mp.weixin.qq.com/s/rR6YhNdZDLQ2TADfDzWP3Q)
