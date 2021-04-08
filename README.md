@@ -27,6 +27,8 @@
 
 #### 基础
 
+- [入门可以首先看清华郑莉老师视频](https://www.bilibili.com/video/BV1PA411b75a?from=search&seid=1015597124238189228)
+
 - [如何入门C++](https://mp.weixin.qq.com/s/koqsBzRSjh_M5GrI-WZhgw)
 
 - [C++面试宝典](https://mp.weixin.qq.com/s/qhFERQ1odNkgZS0PkHm1EA)
