@@ -180,6 +180,12 @@
 
 ### 操作系统
 
+- [推荐清华老师的操作系统视频](https://www.bilibili.com/video/BV1uW411f72n?from=search&seid=7182050251415608805)
+
+- [推荐哈工大老师的操作系统视频](https://www.bilibili.com/video/BV1d4411v7u7?from=search&seid=7182050251415608805)
+
+- [推荐一个内核学习的视频](https://www.bilibili.com/video/BV1yD4y1m7Q9)
+
 - [进程和线程相关知识点总结](https://mp.weixin.qq.com/s/NCl17jrOwP_A017nUqOkJQ)
 
 - [Linux内存布局与malloc底层实现分析](https://mp.weixin.qq.com/s/3bXAGR_7XLX21nkdl9dQ8Q)
