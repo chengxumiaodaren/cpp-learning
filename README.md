@@ -135,6 +135,8 @@
 
 - [性能调优工具大全](https://mp.weixin.qq.com/s/WL-agdox7uNaPe4PV8HgQg)
 
+- [如何优化Linux程序体积大小](https://mp.weixin.qq.com/s/oOExVor6RMDE3SHG4UZ1_Q)
+
 - [代码效率分析](https://mp.weixin.qq.com/s/i7V6lmtQpuFADYZ8ApmkWA)
 
 #### 造轮子必备
