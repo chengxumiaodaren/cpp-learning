@@ -199,7 +199,9 @@
 
 ### 设计模式
 
-- [设计模式学习](https://mp.weixin.qq.com/s/knzV1-bmrI7jhQqnhogGkw)
+- [推荐一个非常好的学习设计模式的网站](https://refactoringguru.cn/design-patterns)
+
+- [设计模式汇总](https://mp.weixin.qq.com/s/knzV1-bmrI7jhQqnhogGkw)
 
 
 ### Java
