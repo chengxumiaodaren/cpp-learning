@@ -57,6 +57,7 @@
 
 - [volatile关键字解析](https://mp.weixin.qq.com/s/6rkCEBuFjUHERk9RmeWLbQ)
 
+- [C++避坑指南](https://mp.weixin.qq.com/s/7PolqHz6IH1wuZTXKPU_xg)
 
 #### C++11 新特性  
 
