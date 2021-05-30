@@ -57,6 +57,8 @@
 
 - [volatile关键字解析](https://mp.weixin.qq.com/s/6rkCEBuFjUHERk9RmeWLbQ)
 
+- [如何设计C++的类](https://mp.weixin.qq.com/s/p7zzhYgJklbNhkl362r0fQ)
+
 - [C++避坑指南](https://mp.weixin.qq.com/s/7PolqHz6IH1wuZTXKPU_xg)
 
 #### C++11 新特性  
@@ -226,6 +228,7 @@
 ## 生活
 
 - [打工人保命指南](https://mp.weixin.qq.com/s/4hY8xM7omrVOnvexJmCehA)
+
 - [不要为35岁焦虑](http://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&mid=2247486284&idx=1&sn=0b6109414afaf5164c5a782407bbe923&chksm=c21d39f0f56ab0e6ca8115cceb9b3774fcdbec3aab221635e2fb281be1b381d259280d30c44b&token=830665182&lang=zh_CN#rd)
 
 ## 其它
