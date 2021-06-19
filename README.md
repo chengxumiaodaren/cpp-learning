@@ -61,6 +61,8 @@
 
 - [C++避坑指南](https://mp.weixin.qq.com/s/7PolqHz6IH1wuZTXKPU_xg)
 
+- [字符串split方法实现](http://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&amp;mid=2247486443&amp;idx=1&amp;sn=2ef53ffb979f863622e05ce463f4c24f&amp;chksm=c21d3957f56ab041b70791c06a1ac0d745f21a3572fd101691d7a114a786a78e5c107ba69d7f&token=1242239139&lang=zh_CN#rd)
+
 #### C++11 新特性  
 
 - [auto&decltype知识点](https://mp.weixin.qq.com/s/3BQ2JlVQsE0sm6eDNa5AdA)  
@@ -91,6 +93,10 @@
 
 - [C++20新特性指南](https://mp.weixin.qq.com/s/TSnN9QRyqZsa8i9-KKKDpQ)
 
+#### 常用的新特性
+
+- [我常用的C++新特性](https://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&amp;mid=2247486826&amp;idx=1&amp;sn=6c9779db19fb28585aceb904878d203b&amp;chksm=c21d3fd6f56ab6c0e3ef5ab39d67006942e30d8bd2607a1023d23db7e7dff97796e1ab288d8f&token=1242239139&lang=zh_CN#rd)
+
 #### 必备技能
 
 - [如何写简历](https://mp.weixin.qq.com/s/JBVR4W4cyd3xVvF6dAEF4g)
@@ -109,6 +115,8 @@
 - [为什么都说虚函数慢？](https://mp.weixin.qq.com/s/eIS8kjPT6R_uQMqLwKSXDQ)
 
 - [C++内存管理全景指南](https://mp.weixin.qq.com/s/GGoPUZjgmGPewATL_QuJSA)
+
+- [编译器如何实现的lambda表达式](http://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&amp;mid=2247486751&amp;idx=1&amp;sn=0bd745ce0b6af60ea289fc0619e9314f&amp;chksm=c21d3fa3f56ab6b53bd56abacbb1bc2c572d9fdcaa59666dde8c07ee151f9566418f94e300de&token=1242239139&lang=zh_CN#rd)
 
 #### 源码分析
 
@@ -230,6 +238,8 @@
 - [打工人保命指南](https://mp.weixin.qq.com/s/4hY8xM7omrVOnvexJmCehA)
 
 - [不要为35岁焦虑](http://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&mid=2247486284&idx=1&sn=0b6109414afaf5164c5a782407bbe923&chksm=c21d39f0f56ab0e6ca8115cceb9b3774fcdbec3aab221635e2fb281be1b381d259280d30c44b&token=830665182&lang=zh_CN#rd)
+
+- [防诈骗指南](http://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&amp;mid=2247486676&amp;idx=1&amp;sn=709abc972c52ea6019f93f562da2efee&amp;chksm=c21d3e68f56ab77eec8e6215321413f1f707f4cae8f72bdc135d58f22b88e4ce17f64f93f8e0&token=1242239139&lang=zh_CN#rd)
 
 ## 其它
 
