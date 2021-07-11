@@ -31,6 +31,8 @@
 
 - [如何入门C++](https://mp.weixin.qq.com/s/koqsBzRSjh_M5GrI-WZhgw)
 
+- [C++基础知识汇总](https://mp.weixin.qq.com/s/eYLJ0pzSQjOfXgDsXL0p0w)
+
 - [C++面试宝典](https://mp.weixin.qq.com/s/qhFERQ1odNkgZS0PkHm1EA)
 
 - [数组长度可以为变量吗？](https://mp.weixin.qq.com/s/rR6YhNdZDLQ2TADfDzWP3Q)
@@ -118,6 +120,8 @@
 
 - [编译器如何实现的lambda表达式](http://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&amp;mid=2247486751&amp;idx=1&amp;sn=0bd745ce0b6af60ea289fc0619e9314f&amp;chksm=c21d3fa3f56ab6b53bd56abacbb1bc2c572d9fdcaa59666dde8c07ee151f9566418f94e300de&token=1242239139&lang=zh_CN#rd)
 
+- [普通的int main(){}没有写return 0会怎么样？](https://mp.weixin.qq.com/s/k3i7MW28UVtr86RU51-KuQ)
+
 #### 源码分析
 
 - [源码分析string的实现](https://mp.weixin.qq.com/s/jnYQ_TRqe8otOhST8Pesww)
@@ -149,6 +153,10 @@
 - [如何优化Linux程序体积大小](https://mp.weixin.qq.com/s/oOExVor6RMDE3SHG4UZ1_Q)
 
 - [代码效率分析](https://mp.weixin.qq.com/s/i7V6lmtQpuFADYZ8ApmkWA)
+
+- [并发方向的优化](https://mp.weixin.qq.com/s/sxlmaCChrosZ8Qcaew7G7A)
+
+- [内存方向的优化](https://mp.weixin.qq.com/s/0uK98WsXv57lJYakA2oqGg)
 
 #### 造轮子必备
 
@@ -183,6 +191,8 @@
 
 
 #### 调试系列
+
+- [代码调试手段](https://mp.weixin.qq.com/s/wFy3EueN1oEMTKjeNBYuRg)
 
 - [Linux如何调试内存泄漏](https://mp.weixin.qq.com/s/0JsxzsOAQfLPCSpldYkKkA)
 
