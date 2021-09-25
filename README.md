@@ -29,6 +29,10 @@
 
 - [入门可以首先看清华郑莉老师视频](https://www.bilibili.com/video/BV1PA411b75a?from=search&seid=1015597124238189228)
 
+- [C++学习路线](https://mp.weixin.qq.com/s/poq9aDdEL5kLM5sjSqJ72A)
+
+- [C++服务端学习路线](https://mp.weixin.qq.com/s/6qTLqEU5JuxBo0wHjBWG0Q)
+
 - [如何入门C++](https://mp.weixin.qq.com/s/koqsBzRSjh_M5GrI-WZhgw)
 
 - [C++基础知识汇总](https://mp.weixin.qq.com/s/eYLJ0pzSQjOfXgDsXL0p0w)
@@ -58,8 +62,6 @@
 - [如何学好C++？](https://mp.weixin.qq.com/s/VJc_pIdYjmvU1t7W0zTpBA)
 
 - [volatile关键字解析](https://mp.weixin.qq.com/s/6rkCEBuFjUHERk9RmeWLbQ)
-
-- [如何设计C++的类](https://mp.weixin.qq.com/s/p7zzhYgJklbNhkl362r0fQ)
 
 - [C++避坑指南](https://mp.weixin.qq.com/s/7PolqHz6IH1wuZTXKPU_xg)
 
@@ -107,6 +109,8 @@
 
 - [如何适应新环境](https://mp.weixin.qq.com/s/jJsUf9YfzVMGIVk2AwKNTA)
 
+- [大佬的经验之谈](https://mp.weixin.qq.com/s/1PpbVTu9Dt3Zr4YuDpC_uQ)
+
 
 ### 进阶必备
 
@@ -134,6 +138,8 @@
 
 #### 性能优化
 
+- [高效代码的一些建议](https://mp.weixin.qq.com/s/B0cKUQyL4q34Zb6TggtcRQ)
+
 - [编译器都做了哪些优化](https://mp.weixin.qq.com/s/_Dunn97fMDkEhkPidf1IJw)
 
 - [strip必知必会](https://mp.weixin.qq.com/s/twFor039zSOuqVKE4XdX0Q)
@@ -158,8 +164,13 @@
 
 - [内存方向的优化](https://mp.weixin.qq.com/s/0uK98WsXv57lJYakA2oqGg)
 
-#### 造轮子必备
+- [如何设计结构体](https://mp.weixin.qq.com/s/FbaGdRgUFmfXYY52NxbbbA)
 
+- [如何设计C++的类](https://mp.weixin.qq.com/s/p7zzhYgJklbNhkl362r0fQ)
+
+- [多线程的一些建议](https://mp.weixin.qq.com/s/SkH2CotAenSE79I2LMbD0w)
+
+#### 造轮子必备
 
 - [如何设计高效的log模块](https://mp.weixin.qq.com/s/hdkjkNaLQFGP2M83GN7JkQ)
 
@@ -182,6 +193,8 @@
 - [函数调用全流程](https://mp.weixin.qq.com/s/rHLPyrEPLHdZCuJ175Cung)
 
 - [共享库的版本控制](https://mp.weixin.qq.com/s/nQgM0zT24chXn7kzhQ5ypA)
+
+- [动态链接原理](https://mp.weixin.qq.com/s/IE7nE6ERb_0OtnZbF-GK8g)
 
 - [静态链接与动态链接的区别](https://mp.weixin.qq.com/s/VDnTE6ImQXt_MxbhEHQk_Q)
 
@@ -242,6 +255,8 @@
 - [计算机为什么从0开始计数](https://mp.weixin.qq.com/s/6zAmABxH8jHy8l5r0_9Kag)
 
 - [为什么不能include cpp](https://mp.weixin.qq.com/s/NVEZnF1HqpIMSBlw_PXwyA)
+
+- [if-else和switch-case效率对比分析](https://mp.weixin.qq.com/s/mTik1pfNigGnVnB6oK8ilA)
 
 ## 生活
 
