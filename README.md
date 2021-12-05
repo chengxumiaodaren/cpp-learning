@@ -126,6 +126,8 @@
 
 - [普通的int main(){}没有写return 0会怎么样？](https://mp.weixin.qq.com/s/k3i7MW28UVtr86RU51-KuQ)
 
+- [为什么空类大小是1](https://mp.weixin.qq.com/s/uatF3kF7SRQ-zLpXSoYeyg)
+
 #### 源码分析
 
 - [源码分析string的实现](https://mp.weixin.qq.com/s/jnYQ_TRqe8otOhST8Pesww)
@@ -135,6 +137,8 @@
 - [分析STL的基础能力：type_traits](https://mp.weixin.qq.com/s/4VbipLVR34D_iOMiJntHnw)
 
 - [STL容器源码分析](https://mp.weixin.qq.com/s/Khys6g82qRQxqJjKSUTreA)
+
+- [malloc内存分配器原理](https://mp.weixin.qq.com/s/KKsMAYh9mgr0GEgqxKWA_g)
 
 #### 性能优化
 
@@ -209,6 +213,8 @@
 
 - [Linux如何调试内存泄漏](https://mp.weixin.qq.com/s/0JsxzsOAQfLPCSpldYkKkA)
 
+- [内存泄漏调试方法论](https://mp.weixin.qq.com/s/K2Fvn6jDm71fdpQjix_wrg)
+
 - [gdb使用指南](https://mp.weixin.qq.com/s/S-B2KZ7UTaIDzAgKG32VAQ)
 
 - [如何使用gdb定位死锁问题](https://mp.weixin.qq.com/s/O4xuCcPMXG4Y9ktIn8578A)
@@ -237,6 +243,10 @@
 
 - [设计模式汇总](https://mp.weixin.qq.com/s/knzV1-bmrI7jhQqnhogGkw)
 
+- [双分派设计模式](https://mp.weixin.qq.com/s/I1qXomFD1TiGnUV48DXrxw)
+
+- [pimpl模式](https://mp.weixin.qq.com/s/LyPabf13uJ4QMwEF1rXf6A)
+
 
 ### Java
 
@@ -244,11 +254,18 @@
 
 - [JNI内存管理之Local Reference和Global Reference知识点](https://mp.weixin.qq.com/s/5Q2Exx9W5BckpI3AhzShHQ)
 
+- [Android Native内存泄漏调试心得](https://mp.weixin.qq.com/s/AlqD2Wp2g6qUMXG9zeqEow)
+
+- [JNI知识点](https://mp.weixin.qq.com/s/KFWYOq3QRXeyu2ygeuy5-Q)
+
 
 ### 算法
 
-- [袁厨的算法小屋](https://github.com/chefyuan/algorithm-base)  
+- [袁厨的算法小屋](https://github.com/chefyuan/algorithm-base) 
 
+- [厨子的网站](http://www.chengxuchu.com)
+
+- [一定要猛刷leetcode](https://leetcode-cn.com/)
 
 ## 科普
 
