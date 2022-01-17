@@ -262,10 +262,18 @@
 ### 算法
 
 - [袁厨的算法小屋](https://github.com/chefyuan/algorithm-base) 
-
 - [厨子的网站](http://www.chengxuchu.com)
-
 - [一定要猛刷leetcode](https://leetcode-cn.com/)
+
+## 知名大学计算机系开源课程收录
+
+- [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
+- [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)
+- [北京大学课程资料民间整理](https://lib-pku.github.io/)
+- [上海交通大学课程资料分享](https://github.com/c-hj/SJTU-Courses)
+- [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/)
+- [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
+- [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)
 
 ## 科普
 
@@ -286,5 +294,4 @@
 ## 其它
 
 - [C语言如何实现动态扩容的string](https://mp.weixin.qq.com/s/6T4LN3Qkc9OJeCQEBiivcQ)
-
 
