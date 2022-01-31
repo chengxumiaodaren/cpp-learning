@@ -65,7 +65,9 @@
 
 - [C++避坑指南](https://mp.weixin.qq.com/s/7PolqHz6IH1wuZTXKPU_xg)
 
-- [字符串split方法实现](http://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&amp;mid=2247486443&amp;idx=1&amp;sn=2ef53ffb979f863622e05ce463f4c24f&amp;chksm=c21d3957f56ab041b70791c06a1ac0d745f21a3572fd101691d7a114a786a78e5c107ba69d7f&token=1242239139&lang=zh_CN#rd)
+- [字符串split方法实现](https://mp.weixin.qq.com/s/LdiMuhY0IDFCP8V1dPxg-g)
+
+- [RTTI知识点](https://mp.weixin.qq.com/s/vzuU0qRRsD-aLuWxMTXA_g)
 
 #### C++11 新特性  
 
@@ -97,6 +99,8 @@
 
 - [C++20新特性指南](https://mp.weixin.qq.com/s/TSnN9QRyqZsa8i9-KKKDpQ)
 
+- [latch、barrier、semaphore](https://mp.weixin.qq.com/s/5VFXzsaxwLJumCvMtbVHJg)
+
 #### 常用的新特性
 
 - [我常用的C++新特性](https://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&amp;mid=2247486826&amp;idx=1&amp;sn=6c9779db19fb28585aceb904878d203b&amp;chksm=c21d3fd6f56ab6c0e3ef5ab39d67006942e30d8bd2607a1023d23db7e7dff97796e1ab288d8f&token=1242239139&lang=zh_CN#rd)
@@ -122,11 +126,21 @@
 
 - [C++内存管理全景指南](https://mp.weixin.qq.com/s/GGoPUZjgmGPewATL_QuJSA)
 
-- [编译器如何实现的lambda表达式](http://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&amp;mid=2247486751&amp;idx=1&amp;sn=0bd745ce0b6af60ea289fc0619e9314f&amp;chksm=c21d3fa3f56ab6b53bd56abacbb1bc2c572d9fdcaa59666dde8c07ee151f9566418f94e300de&token=1242239139&lang=zh_CN#rd)
+- [编译器如何实现的lambda表达式](https://mp.weixin.qq.com/s/L0tAA9tGdL2i8K-iO7UusQ)
 
 - [普通的int main(){}没有写return 0会怎么样？](https://mp.weixin.qq.com/s/k3i7MW28UVtr86RU51-KuQ)
 
 - [为什么空类大小是1](https://mp.weixin.qq.com/s/uatF3kF7SRQ-zLpXSoYeyg)
+
+- [SDK开发的一些思考](https://mp.weixin.qq.com/s/DmWTD8ve0pfomy4pl4O43Q)
+
+- [软件开发的建议](https://mp.weixin.qq.com/s/2sgLPjyujNrO8fgsTRTPDA)
+
+- [模板定义一定要写在头文件中吗](https://mp.weixin.qq.com/s/49rziyP5XICMn16vFcK_ew)
+
+- [折叠表达式知识点](https://mp.weixin.qq.com/s/0BTD8w_doWXBsHx6ij72jg)
+
+- [cout vs printf](https://mp.weixin.qq.com/s/wAS1Xk4IsGmBggg4WiBaIw)
 
 #### 源码分析
 
@@ -184,6 +198,8 @@
 
 - [怎么自己写一个内存泄漏检测工具](https://mp.weixin.qq.com/s/NE4Ozd2XtIshN45YJjR04Q)
 
+- [简单的对象池实现](https://mp.weixin.qq.com/s/bWe8dLs-sgoCI_5sQbeOaw)
+
 #### 编译链接
 
 - [gcc test.cc的背后经历了什么？](https://mp.weixin.qq.com/s/PaXLQnaCjGkQGIjnPnqRww)
@@ -236,6 +252,8 @@
 
 - [64位系统与32位系统的区别](https://mp.weixin.qq.com/s/Ls0YAbXPHLdu7LG3VzNsTw)
 
+- [malloc内存分配器实现原理](https://mp.weixin.qq.com/s/KKsMAYh9mgr0GEgqxKWA_g)
+
 
 ### 设计模式
 
@@ -262,17 +280,25 @@
 ### 算法
 
 - [袁厨的算法小屋](https://github.com/chefyuan/algorithm-base) 
+
 - [厨子的网站](http://www.chengxuchu.com)
+
 - [一定要猛刷leetcode](https://leetcode-cn.com/)
 
 ## 知名大学计算机系开源课程收录
 
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/)
+
 - [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/)
+
 - [北京大学课程资料民间整理](https://lib-pku.github.io/)
+
 - [上海交通大学课程资料分享](https://github.com/c-hj/SJTU-Courses)
+
 - [北京邮电大学计算机考研信息汇总](https://ningzimu.github.io/See_you_in_BUPT/)
+
 - [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
+
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)
 
 ## 科普
@@ -295,3 +321,8 @@
 
 - [C语言如何实现动态扩容的string](https://mp.weixin.qq.com/s/6T4LN3Qkc9OJeCQEBiivcQ)
 
+- [音视频学习资料整理](https://mp.weixin.qq.com/s/QE-Zqd9oBQZI4T73ehITKg)
+
+- [C++全链路追踪方案](https://mp.weixin.qq.com/s/ZZd_o_x5Ti8o8haMjG0btw)
+
+- [开源库推荐](https://mp.weixin.qq.com/s/LSy4fnWKMEln7v9QO-aeZA)
