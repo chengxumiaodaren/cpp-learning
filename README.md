@@ -69,6 +69,8 @@
 
 - [RTTI知识点](https://mp.weixin.qq.com/s/vzuU0qRRsD-aLuWxMTXA_g)
 
+- [C++匠心之作从0到1入门资料](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+
 #### C++11 新特性  
 
 - [auto&decltype知识点](https://mp.weixin.qq.com/s/3BQ2JlVQsE0sm6eDNa5AdA)  
@@ -246,13 +248,21 @@
 
 - [进程和线程相关知识点总结](https://mp.weixin.qq.com/s/NCl17jrOwP_A017nUqOkJQ)
 
-- [Linux内存布局与malloc底层实现分析](https://mp.weixin.qq.com/s/3bXAGR_7XLX21nkdl9dQ8Q)
-
 - [操作系统内存管理知识点](https://mp.weixin.qq.com/s/yzvye0rJto1P7zSTh03kZQ)
 
 - [64位系统与32位系统的区别](https://mp.weixin.qq.com/s/Ls0YAbXPHLdu7LG3VzNsTw)
 
 - [malloc内存分配器实现原理](https://mp.weixin.qq.com/s/KKsMAYh9mgr0GEgqxKWA_g)
+
+- [Linux 内核官方文档](https://docs.kernel.org/index.html)
+
+- [Linux 内核源码](https://github.com/torvalds/linux)
+
+- [Linux 内核揭秘](https://xinqiu.gitbooks.io/linux-insides-cn/content/index.html)
+
+- [Linux 内核模块编程指南](https://sysprog21.github.io/lkmpg/)
+
+- [Linux 内存布局与malloc底层实现分析](https://mp.weixin.qq.com/s/3bXAGR_7XLX21nkdl9dQ8Q)
 
 
 ### 设计模式
@@ -326,3 +336,7 @@
 - [C++全链路追踪方案](https://mp.weixin.qq.com/s/ZZd_o_x5Ti8o8haMjG0btw)
 
 - [开源库推荐](https://mp.weixin.qq.com/s/LSy4fnWKMEln7v9QO-aeZA)
+
+## 机器人
+
+- [开源机器人学习指南](https://github.com/qqfly/how-to-learn-robotics)
