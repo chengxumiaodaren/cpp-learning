@@ -39,7 +39,7 @@
 
 - [C++面试宝典](https://mp.weixin.qq.com/s/qhFERQ1odNkgZS0PkHm1EA)
 
-- [数组长度可以为变量吗？](https://mp.weixin.qq.com/s/rR6YhNdZDLQ2TADfDzWP3Q)
+- [数组长度可以为变量吗？](https://blog.csdn.net/qq_29426201/article/details/106342991)
 
 - [是否应该使用异常处理](https://mp.weixin.qq.com/s/BIaz2Vbf3HyjEDTM9abSAg)
 
