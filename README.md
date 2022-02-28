@@ -27,7 +27,7 @@
 
 #### 基础
 
-- [入门可以首先看清华郑莉老师视频](https://www.bilibili.com/video/BV18J411Q77z?from=search&seid=1046128869673496982&spm_id_from=333.337.0.0)
+- [入门可以首先看清华郑莉老师视频](https://space.bilibili.com/702528832)
 
 - [C++学习路线](https://mp.weixin.qq.com/s/poq9aDdEL5kLM5sjSqJ72A)
 
