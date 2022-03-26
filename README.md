@@ -12,11 +12,7 @@
 
 **欢迎大家的批评指正，但不接受喷子，感谢支持，如果大家觉得不错，求给个star！** 
 
-**我组建了一些C++技术交流群，里面有非常多的大佬给大家答疑解惑，想进群的话可以加我微信**  
-
-**如果阅读时，发现错误，或者其它任何问题可以添加我微信好友cxmdrcpp，也可以扫描下方二维码，备注程序喵**  
-
-<div align=center><img src="img/wechat.jpg" width="50%" height="50%"></div>
+**如果阅读时，发现错误，或者其它任何问题可以提issue**  
 
 另外大家也可以关注我的**公众号：程序喵大人**，以后所有文章都会首发在公众号上，下面是公众号二维码，谢谢大家支持。  
 <div align=center><img src="img/cxmdr.jpg" width="50%" height="50%"></div>
@@ -33,7 +29,11 @@
 
 - [C++服务端学习路线](https://mp.weixin.qq.com/s/6qTLqEU5JuxBo0wHjBWG0Q)
 
+- [C++就业方向](https://mp.weixin.qq.com/s/GDBqvRTuaMg8WPaTTsFbmg)
+
 - [如何入门C++](https://mp.weixin.qq.com/s/koqsBzRSjh_M5GrI-WZhgw)
+
+- [学习C++应该做点什么项目](https://mp.weixin.qq.com/s/DLQllBnFyA6vt2aFENP-2Q)
 
 - [C++基础知识汇总](https://mp.weixin.qq.com/s/eYLJ0pzSQjOfXgDsXL0p0w)
 
@@ -97,6 +97,8 @@
 
 - [C++17新特性的所有知识点](https://mp.weixin.qq.com/s/6FcCfFWHwcmywPuemyxHng)
 
+- [variant实现多态](https://mp.weixin.qq.com/s/bTFbunrSLnOtyCSJEZwR3A)
+
 #### C++20 新特性
 
 - [C++20新特性指南](https://mp.weixin.qq.com/s/TSnN9QRyqZsa8i9-KKKDpQ)
@@ -143,6 +145,12 @@
 - [折叠表达式知识点](https://mp.weixin.qq.com/s/0BTD8w_doWXBsHx6ij72jg)
 
 - [cout vs printf](https://mp.weixin.qq.com/s/wAS1Xk4IsGmBggg4WiBaIw)
+
+- [async的两个坑](https://mp.weixin.qq.com/s/lNct6HRknCNL9X9DAZjCBg)
+
+- [const重载](https://mp.weixin.qq.com/s/xsMwv1hR31YqquPFB4oTWw)
+
+- [优雅的实现多维数组](https://mp.weixin.qq.com/s/Lz7pC-0DF0PtBnULBw-Gqw)
 
 #### 源码分析
 
@@ -201,6 +209,8 @@
 - [怎么自己写一个内存泄漏检测工具](https://mp.weixin.qq.com/s/NE4Ozd2XtIshN45YJjR04Q)
 
 - [简单的对象池实现](https://mp.weixin.qq.com/s/bWe8dLs-sgoCI_5sQbeOaw)
+
+- [简单的shared_ptr实现，代码有点bug，具体见评论区](https://mp.weixin.qq.com/s/n8O0Xn8hqpa5On-h8Zlcbg)
 
 #### 编译链接
 
