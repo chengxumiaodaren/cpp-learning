@@ -44,6 +44,7 @@ class SharedPtr {
     }
 
     SharedPtr& operator=(const SharedPtr& p) {
+        if (this == &p) return *this;
         clean();
         this->ptr_ = p.ptr_;
         this->ref_count_ = p.ref_count_;
@@ -52,6 +53,7 @@ class SharedPtr {
     }
 
     SharedPtr& operator=(SharedPtr&& p) {
+        if (this == &p) return *this;
         clean();
         this->ptr_ = p.ptr_;
         this->ref_count_ = p.ref_count_;
