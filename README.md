@@ -16,7 +16,6 @@
 
 另外大家也可以关注我的**公众号：程序喵大人**，以后所有文章都会首发在公众号上，下面是公众号二维码，谢谢大家支持。  
 <div align=center><img src="img/cxmdr.jpg" width="50%" height="50%"></div>
-
 ## 干货
 
 ### 入门必备  
@@ -320,6 +319,12 @@
 - [北京航空航天大学(北航)课程作业资料共享计划](https://github.com/TheBloodthirster/BUAA_Course_Sharing)
 
 - [华北电力大学计算机系课程攻略](https://github.com/IammyselfYBX/NCEPU_CS_course)
+
+## 深度学习
+- [《PapersWithCode》对机器学习做了分类，检索对应的模型非常方便，这个网站包含：论文 + github实现代码 + 经典 + 最新 + 多版本对比 + 神器](https://paperswithcode.com/)   
+- [《动手学强化学习》 - 上海交通大学 - 课程主页](http://hrl.boyuai.com/)
+- [《动手学深度学习》 - 李沐 亚马逊资深首席科学家 - 课程主页](https://courses.d2l.ai/zh-v2/)
+- [ 动手学深度学习课程的 markdown 笔记和相关的 jupyter 代码](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes)  
 
 ## 科普
 
