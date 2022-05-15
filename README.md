@@ -15,7 +15,9 @@
 **如果阅读时，发现错误，或者其它任何问题可以提issue**  
 
 另外大家也可以关注我的**公众号：程序喵大人**，以后所有文章都会首发在公众号上，下面是公众号二维码，谢谢大家支持。  
-<div align=center><img src="img/cxmdr.jpg" width="50%" height="50%"></div>
+<div align=center><img src="img/cxmdr.jpg" width="40%" height="40%"></div>
+
+我还特意组建了一个优质的C++学习社群，感兴趣可以点击此链接了解：[https://t.zsxq.com/zJynu3z](https://t.zsxq.com/zJynu3z)  
 ## 干货
 
 ### 入门必备  
