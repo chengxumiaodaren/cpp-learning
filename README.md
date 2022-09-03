@@ -173,7 +173,7 @@
 
 - [strip必知必会](https://mp.weixin.qq.com/s/twFor039zSOuqVKE4XdX0Q)
 
-- [静态代码分析工具：让bug无所遁形](https://mp.weixin.qq.com/s/zMwRLdO6ccIelrrvVwYEKg)
+- [静态代码分析工具：让bug无所遁形](https://mp.weixin.qq.com/s?__biz=MzkyODE5NjU2Mw==&mid=2247493747&idx=1&sn=39db000227fb46570dfff160ca89b413&chksm=c21edacff56953d95f357a6a8b8eca12dd810d20dd170858867377795a21e86b5ae127fb871f#rd)
 
 - [科普内存对齐](https://mp.weixin.qq.com/s/iJlOcQjVf6e7a3K84fdekg)
 
