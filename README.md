@@ -155,6 +155,8 @@
 
 - [优雅的实现多维数组](https://mp.weixin.qq.com/s/Lz7pC-0DF0PtBnULBw-Gqw)
 
+- [推荐资料：更多C++编程技法](https://upload.wikimedia.org/wikipedia/commons/5/55/MoreCppIdioms.pdf)
+
 #### 源码分析
 
 - [源码分析string的实现](https://mp.weixin.qq.com/s/jnYQ_TRqe8otOhST8Pesww)
