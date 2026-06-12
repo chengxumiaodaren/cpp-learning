@@ -20,6 +20,8 @@
 我也特意为大家整理了一些文档和脑图，详见doc目录。  
 ## 干货
 
+- 后续所有文档都会首发在飞书知识库中，详见 [C++知识库](https://aigccoding.feishu.cn/wiki/PQhfwgLOoi4cqgkyDTecelDDnNe?fromScene=spaceOverview)
+
 ### 入门必备  
 
 #### 基础
